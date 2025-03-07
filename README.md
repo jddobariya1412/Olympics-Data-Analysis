@@ -4,8 +4,11 @@
 Excited to share my latest project on Olympics Data Analysis (till 2016)! This project dives deep into four key aspects:
 
 1️⃣ Medal Tally – Tracking medals across editions.
+
 2️⃣ Overall Analysis – Trends, top-performing nations, and insights.
+
 3️⃣ Country-wise Analysis – Performance of individual nations over time.
+
 4️⃣ Athlete-wise Analysis – Standout athletes and their achievements.
 
 With graphical representations and interactive visualizations, I developed a web app using PyCharm to showcase the data in an engaging way. 📈🎯
