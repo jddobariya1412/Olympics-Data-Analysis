@@ -19,5 +19,8 @@ Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 
 ![Screenshot 2025-03-06 184216](https://github.com/user-attachments/assets/c73530ce-ad31-4262-aa5c-d20c44b1416c)
 ![Screenshot 2025-03-06 184302](https://github.com/user-attachments/assets/6ba2cc78-1ada-44f7-9ea1-1b5768cf4c40)
-![Screenshot 2025-03-06 184527](https://github.com/user-attachments/assets/84548855-237d-4963-831e-1e2cf05a2976)
-![Screenshot 2025-03-06 184558](https://github.com/user-attachments/assets/9397bff2-6bc7-4740-a3a5-6d6608180e8e)
+![Screenshot 2025-03-06 184419](https://github.com/user-attachments/assets/afe51224-babf-4fe9-8f6c-d06b35ee83c3)
+
+
+![Screenshot 2025-03-06 184527](https://github.com/user-attachments/assets/5e6de38d-7c66-4958-9360-af7554d2a107)
+![Screenshot 2025-03-06 184558](https://github.com/user-attachments/assets/c8a9c1cc-8977-4c71-85b3-cf3da5981d6b)
