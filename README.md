@@ -15,6 +15,9 @@ With graphical representations and interactive visualizations, I developed a web
 This project helped me enhance my data analysis, visualization, web development, and deployment skills. Looking forward to exploring more in this space! 🚀
 
 Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
-![Screenshot 2025-03-06 184338](https://github.com/user-attachments/assets/67cae6f7-dcc9-42c2-86fc-7c8ebe7b87e4)
-![Screenshot 2025-03-06 184429](https://github.com/user-attachments/assets/9dce6704-d6d9-408d-af03-101a446e0b5e)
-![Screenshot 2025-03-06 184614](https://github.com/user-attachments/assets/d7ae0bcb-1653-436d-97ad-05f3255f1bb1)
+
+
+![Screenshot 2025-03-06 184216](https://github.com/user-attachments/assets/c73530ce-ad31-4262-aa5c-d20c44b1416c)
+![Screenshot 2025-03-06 184302](https://github.com/user-attachments/assets/6ba2cc78-1ada-44f7-9ea1-1b5768cf4c40)
+![Screenshot 2025-03-06 184527](https://github.com/user-attachments/assets/84548855-237d-4963-831e-1e2cf05a2976)
+![Screenshot 2025-03-06 184558](https://github.com/user-attachments/assets/9397bff2-6bc7-4740-a3a5-6d6608180e8e)
