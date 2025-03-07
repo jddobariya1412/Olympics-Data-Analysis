@@ -11,11 +11,11 @@ Excited to share my latest project on Olympics Data Analysis (till 2016)! This p
 
 4️⃣ Athlete-wise Analysis – Standout athletes and their achievements.
 
-With graphical representations and interactive visualizations, I developed a web app using PyCharm to showcase the data in an engaging way. 📈🎯
+With graphical representations and interactive visualizations, I developed a web app using PyCharm to showcase the data in an engaging way. 
 
-💡 Deployment Update: I have also hosted this analysis on a server using Render, making it accessible online! You can check out the project and source code 🔗
+💡 Deployment Update: I have also hosted this analysis on a server using Render, making it accessible online! You can check out the project and source code 
 
-This project helped me enhance my data analysis, visualization, web development, and deployment skills. Looking forward to exploring more in this space! 🚀
+This project helped me enhance my data analysis, visualization, web development, and deployment skills. Looking forward to exploring more in this space! 
 
 Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
