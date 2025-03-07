@@ -13,7 +13,7 @@ Excited to share my latest project on Olympics Data Analysis (till 2016)! This p
 
 With graphical representations and interactive visualizations, I developed a web app using PyCharm to showcase the data in an engaging way. 📈🎯
 
-💡 Deployment Update: I have also hosted this analysis on a server using Render, making it accessible online! You can check out the project and source code on GitHub. 🔗
+💡 Deployment Update: I have also hosted this analysis on a server using Render, making it accessible online! You can check out the project and source code 🔗
 
 This project helped me enhance my data analysis, visualization, web development, and deployment skills. Looking forward to exploring more in this space! 🚀
 
